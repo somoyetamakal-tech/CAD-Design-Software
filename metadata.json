@@ -1,0 +1,5 @@
+{
+  "name": "CAD Report Generator",
+  "description": "AI-powered CAD design analysis and PDF report generator with 3D visualization.",
+  "requestFramePermissions": []
+}
